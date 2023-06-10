@@ -9,6 +9,8 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Accountancy
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: High Precision Agronomy
 <br>:pencil: Comfortable working in person, from home or mixed shift
+<br>:bookmark: Currently looking to work and gain experience in projects or companies unrelated to my previous experience
+<br>
 
 <!--
 **adylansd28/adylansd28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
