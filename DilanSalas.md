@@ -3,7 +3,7 @@
 
 :mortar_board: Certified Data Scientist
 <br>:office: 3 years of experiencia in all types of projects and consultancy work with Data analysis / Data Visualization. Fields in which I have worked:
-<br>&emsp :small_blue_diamond: Business and commerce in general
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Business and commerce in general
 <br>&emsp :small_blue_diamond: Scientific and academic
         :small_blue_diamond: Entertainment
         :small_blue_diamond: Accountancy
