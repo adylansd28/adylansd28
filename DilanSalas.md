@@ -7,7 +7,8 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Scientific and academic
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Entertainment
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Accountancy
-<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: 
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: High Precision Agronomy
+<br>:pencil: Comfortable working in person, from home or mixed shift
 
 <!--
 **adylansd28/adylansd28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
