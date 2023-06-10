@@ -4,10 +4,10 @@
 :mortar_board: Certified Data Scientist
 <br>:office: 3 years of experiencia in all types of projects and consultancy work with Data analysis / Data Visualization. Fields in which I have worked:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Business and commerce in general
-<br>&emsp :small_blue_diamond: Scientific and academic
-        :small_blue_diamond: Entertainment
-        :small_blue_diamond: Accountancy
-        :small_blue_diamond: 
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Scientific and academic
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Entertainment
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Accountancy
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: 
 
 <!--
 **adylansd28/adylansd28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
