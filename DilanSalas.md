@@ -11,7 +11,7 @@
 <br>:pencil: Comfortable working in person, from home or mixed shift
 <br>:bookmark: Currently looking to work and gain experience in projects or companies unrelated to my previous experience
 <hr>
-### Data Visualization Samples :page_with_curl:
+<h3> Data Visualization Samples :page_with_curl:<h3>
 <br>
 <a href="https://lookerstudio.google.com/s/iMUM0zsuhzM">Sales Dashboard Sample</a>
 
