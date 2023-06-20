@@ -10,7 +10,9 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: High Precision Agronomy
 <br>:pencil: Comfortable working in person, from home or mixed shift
 <br>:bookmark: Currently looking to work and gain experience in projects or companies unrelated to my previous experience
+<hr>
 <br>
+<a href="https://lookerstudio.google.com/s/iMUM0zsuhzM">Sales Dashboard Sample</a>
 
 <!--
 **adylansd28/adylansd28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
