@@ -2,13 +2,13 @@
 <hr>
 
 :mortar_board: Certified Data Scientist
-<br>:office: 3 years of experiencia in all types of projects and consultancy work with Data analysis / Data Visualization. Fields in which I have worked:
+<br>:office: 3 years of experience in all types of projects and consultancy work with Data analysis / Data Visualization. Fields in which I have worked:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Business and commerce in general
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Scientific and academic
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Entertainment
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Accountancy
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: High Precision Agronomy
-<br>:pencil: Comfortable working in person, from home or mixed shift
+<br>:pencil: Comfortable working in person, from home, or mixed shift
 <br>:bookmark: Currently looking to work and gain experience in projects or companies unrelated to my previous experience
 <hr>
 <h3> Data Visualization Samples :page_with_curl:<h3>
