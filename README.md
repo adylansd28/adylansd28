@@ -1,7 +1,10 @@
 ### Hi👋, I'm Dylan!
 <hr>
 
-:mortar_board: Certified Data Scientist
+:mortar_board: Certified Professional in:
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Data Finding and Research
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Data Curation
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Data Science
 <br>:office: 3 years of experience in all types of projects and consultancy work with Data analysis / Data Visualization. Fields in which I have worked:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Business and commerce in general
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Scientific and academic
