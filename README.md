@@ -36,4 +36,4 @@ Ready to turn your data into a strategic asset? Let's embark on a journey of dat
 - 🌱 I’m currently learning LSTM Neural networks
 - 👯 I’m looking to collaborate on creating databases from 0 of a company for subsequent analysis
 - 💬 Ask me about Dashboard Development
-- 📫 How to reach me: adylansd28@gmail.com or Upwrok Profile (Dilan Salas)
+- 📫 How to reach me: adylansd28@gmail.com or Upwork Profile (Dilan Salas)
