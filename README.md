@@ -41,19 +41,27 @@ With over 4 years of experience uncovering meaningful insights from complex data
 -   C𝗿𝗼𝘀𝘀-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲𝗻𝗲𝘀𝘀: Create dashboards that adapt seamlessly across all devices.
 
 ## Tech Toolbox:
-- Proficient in:
-  - Google Data Studio (Looker), Power BI, Zoho Analytics, Domo, Tableau, Excel, Google Sheets
-  - Google Apps Script, Google Cloud Platform (Compute Engine, GCP SQL)
-  - Chat GPT, Claude AI, Black Box AI
-  - API's integration, Automation, Data Extraction & Web Scraping (Py BeautifulSoup, Js Cheerio, Js Puppeteer)
-  - Python, JavaScript, HTML, CSS, SQL, SQL Server, MySQL, PostgreSQL, MSSQL.
-
-## Languages of Domain:
-🐍 Python
-🔧 JavaScript (Including Google Apps Script syntax)
-🖌️ HTML5
-📊 SQL (SQL Server, MySQL, Postgres SQL syntax)
-🌈 CSS
+- 𝗠𝘆 𝗕𝗜-𝗧𝗼𝗼𝗹𝘀 𝗼𝗳 𝗗𝗼𝗺𝗮𝗶𝗻:
+  - Microsoft Power BI
+  - Zoho Analytics
+  - Looker Studio
+  - Microsoft Excel
+  - Google Sheets
+  - Domo
+  - Tableau (In-Training)
+- Languahes 𝗼𝗳 𝗗𝗼𝗺𝗮𝗶𝗻:
+  - SQL
+  - Python
+  - DAX
+  - Power Query Language
+  - M Language
+  - Google Apps Script
+  - JavaScript, HTML, CSS
+  - PHP
+  - C#
+  - Proficiency for Chat GPT, Claude AI, Black Box AI
+ 
+## Mastery of:
 
 ## Competences:
 **Language Proficiency:** Fluent in English
