@@ -40,7 +40,7 @@ With over 4 years of experience uncovering meaningful insights from complex data
 -   R𝗲𝗮𝗹-𝗧𝗶𝗺𝗲 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Deliver live, up-to-date insights with optimized performance.
 -   C𝗿𝗼𝘀𝘀-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲𝗻𝗲𝘀𝘀: Create dashboards that adapt seamlessly across all devices.
 
-## Tech Toolbox:
+## 🧰 Tech Toolbox:
 - 𝗠𝘆 𝗕𝗜-𝗧𝗼𝗼𝗹𝘀 𝗼𝗳 𝗗𝗼𝗺𝗮𝗶𝗻:
   - Microsoft Power BI
   - Zoho Analytics
@@ -61,20 +61,47 @@ With over 4 years of experience uncovering meaningful insights from complex data
   - C#
   - Proficiency for Chat GPT, Claude AI, Black Box AI
  
-## Mastery of:
+## ✨ Mastery of:
+- 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
+  - Precise Data Extraction
+  - High-Performance ETL Pipelines
+  - Optimized Data Processing
+  - Seamless Automation
+  - Smooth Data Flow Integration
+  - Clear and Actionable Data Structuring
+  - Best Practices in Data Engineering
+- 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴 𝗠𝗮𝘀𝘁𝗲𝗿𝘆 𝗼𝗳:
+  - In-Depth Exploratory Data Analysis (EDA)
+  - Advanced Statistical Modeling
+  - High-Impact Data Interpretation
+  - Predictive and Prescriptive Analytics
+  - Seamless Data Integration
+  - Automation of Analytical Workflows
+  - Data-Driven Decision Support
 
-## Competences:
-**Language Proficiency:** Fluent in English
-**Self-Critical Mindset:** Dedicated to continuous improvement and refining my craft.
-**Analytical Prowess:** Excel in deep analysis and numerical abstract reasoning.
-**Work-Focused:** Driven by priorities, delivering excellence every step of the way.
-**Disciplined Focus:** Great capacity for concentration and self-discipline.
-**Growth Mindset:** Open to change, evaluation, and correction, constantly evolving.
+## 📌 𝙀𝙡𝙞𝙩𝙚 𝘾𝙤𝙢𝙥𝙚𝙩𝙚𝙣𝙘𝙚𝙨:
+- 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴 𝗠𝗮𝘀𝘁𝗲𝗿𝘆 𝗼𝗳:
+  -  𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Expert in extracting complex data from diverse sources with precision and efficiency.
+  -  𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗱 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘀𝗶𝗴𝗻: Specializes in building high-performance, scalable ETL workflows for seamless data integration.
+  -  𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: Pioneers automation solutions that streamline data processing and eliminate manual bottlenecks.
+  -  𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Aligns ETL and data extraction strategies with business objectives to drive actionable insights.
+  -  𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲: Mastery of top ETL and data tools (Talend, Apache NiFi, Informatica) and coding languages (Python, SQL, JavaScript, PHP) for robust data solutions.
+  -  𝗛𝗶𝗴𝗵-𝗜𝗺𝗽𝗮𝗰𝘁 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗲𝗿𝗽𝗿𝗲𝘁𝗮𝘁𝗶𝗼𝗻: Translates complex data into clear, actionable business strategies that drive growth.
+  -  𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝘃𝗲 & 𝗣𝗿𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝘃𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Develops forecasting and optimization models to guide data-driven decision-making.
+  -  𝗖𝗼𝗺𝗽𝗹𝗲𝘅 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴: Leverages data mining techniques to solve intricate business challenges with innovative solutions.
+  -  𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Designs complete analytical pipelines, from data ingestion to actionable insights.
+  -  𝗗𝗮𝘁𝗮-𝗗𝗿𝗶𝘃𝗲𝗻 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗠𝗮𝗸𝗶𝗻𝗴: Bridges data insights with business strategy to enable smarter, evidence-based decisions.
+  -  𝗗𝗮𝘁𝗮 𝗦𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Transform complex data into clear, impactful narratives that drive decision-making.
+  -  𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗧𝗵𝗶𝗻𝗸𝗶𝗻𝗴: Expert in uncovering hidden insights through cutting-edge analytical models and techniques.
+  -  𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗗𝗲𝘀𝗶𝗴𝗻: Pioneer in creating intuitive and visually compelling dashboards tailored to user experience.
+  -  𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗗𝗮𝘁𝗮 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Align data strategies with business goals to generate measurable impact and competitive advantage.
+  -  𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲: Mastery of leading BI tools and coding languages (DAX, Python, SQL) for seamless data integration and automation.
 
-Ready to turn your data into a strategic asset? Let's embark on a journey of data-driven success together. 🌐✨
 
-🔭 I’m currently working on NBSE Consulting (Altium Inc.), Falcon Trading Systems
-🌱 I’m currently learning LSTM Neural networks
-👯 I’m looking to collaborate on creating databases from 0 of a company for subsequent analysis
-💬 Ask me about Dashboard Development
-📫 How to reach me: adylansd28@gmail.com or Upwork Profile (Dilan Salas)
+Ready to turn your data into a strategic asset? Let's embark on a journey of data-driven success together. 🔥💯🎯
+
+🔭 I’m currently working as Independent Contractor through Upwork
+🌱 I’m currently pursuing my Microsoft Certified: Power BI Data Analyst Associate
+👯 I’m looking to collaborate on Reporting Infrastructure Development
+💬 Ask me about Data Extraction, Data Analysis or Data Visualization
+📫 How to reach me: https://www.upwork.com/freelancers/dylansalas
