@@ -16,25 +16,24 @@ With over 4 years of experience uncovering meaningful insights from complex data
   - Python, JavaScript, HTML, CSS, SQL, SQL Server, MySQL, PostgreSQL, MSSQL.
 
 ## Languages of Domain:
-- 🐍 Python
-- 🔧 JavaScript (Including Google Apps Script syntax)
-- 🖌️ HTML5
-- 📊 SQL (SQL Server, MySQL, Postgres SQL syntax)
-- 🌈 CSS
+🐍 Python
+🔧 JavaScript (Including Google Apps Script syntax)
+🖌️ HTML5
+📊 SQL (SQL Server, MySQL, Postgres SQL syntax)
+🌈 CSS
 
 ## Competences:
-- **Language Proficiency:** Fluent in English
-- **Self-Critical Mindset:** Dedicated to continuous improvement and refining my craft.
-- **Analytical Prowess:** Excel in deep analysis and numerical abstract reasoning.
-- **Work-Focused:** Driven by priorities, delivering excellence every step of the way.
-- **Disciplined Focus:** Great capacity for concentration and self-discipline.
-- **Growth Mindset:** Open to change, evaluation, and correction, constantly evolving.
+**Language Proficiency:** Fluent in English
+**Self-Critical Mindset:** Dedicated to continuous improvement and refining my craft.
+**Analytical Prowess:** Excel in deep analysis and numerical abstract reasoning.
+**Work-Focused:** Driven by priorities, delivering excellence every step of the way.
+**Disciplined Focus:** Great capacity for concentration and self-discipline.
+**Growth Mindset:** Open to change, evaluation, and correction, constantly evolving.
 
 Ready to turn your data into a strategic asset? Let's embark on a journey of data-driven success together. 🌐✨
 
-
-- 🔭 I’m currently working on NBSE Consulting (Altium Inc.), Falcon Trading Systems
-- 🌱 I’m currently learning LSTM Neural networks
-- 👯 I’m looking to collaborate on creating databases from 0 of a company for subsequent analysis
-- 💬 Ask me about Dashboard Development
-- 📫 How to reach me: adylansd28@gmail.com or Upwork Profile (Dilan Salas)
+🔭 I’m currently working on NBSE Consulting (Altium Inc.), Falcon Trading Systems
+🌱 I’m currently learning LSTM Neural networks
+👯 I’m looking to collaborate on creating databases from 0 of a company for subsequent analysis
+💬 Ask me about Dashboard Development
+📫 How to reach me: adylansd28@gmail.com or Upwork Profile (Dilan Salas)
