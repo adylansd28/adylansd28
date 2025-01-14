@@ -1,8 +1,8 @@
-# Dilan Salas - Data Extraction Wizard | Data Analysis Expert | Data Visualization Magician 🚀
+# Dylan Salas - Data Extraction Wizard | Data Analysis Expert | Data Visualization Magician 🚀
 
 With over 4 years of experience uncovering meaningful insights from complex data to drive informed business decisions. I turn raw data into strategic solutions, delivering clear and actionable results at a fair, flat, and predictable rate.
 
-## Key Skills:
+## 💪 My Superpowers:
 (Only a World-Top 1% Data Professionals can offer this)
 - **Charts, Cards, Dashboards & KPI's:** Crafting visual masterpieces that tell compelling data stories.
 - **Data Visualization & Analysis:** Illuminating patterns and trends in the data darkness.
