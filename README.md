@@ -3,7 +3,7 @@
 With over 4 years of experience uncovering meaningful insights from complex data to drive informed business decisions. I turn raw data into strategic solutions, delivering clear and actionable results at a fair, flat, and predictable rate.
 
 ## 💪 My Superpowers (Only a World-Top 1% Data Professionals can offer this):
-### 🛠️ 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
+### 🛠️ Efficient ETL Pipeline Developer | Data Extraction Wizard:
 -   Charts, Cards, Dashboards & KPI's:** Crafting visual masterpieces that tell compelling data stories.
 -   Data Visualization & Analysis:** Illuminating patterns and trends in the data darkness.
 -   𝗠𝘂𝗹𝘁𝗶-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Domain of Python, PHP, JavaScript, SQL, and C# for building powerful, customized data solutions.
@@ -16,7 +16,7 @@ With over 4 years of experience uncovering meaningful insights from complex data
 -   𝗖𝗹𝗼𝘂𝗱-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Deploys scalable data solutions using MongoDB, Google Cloud, and automated deployment pipelines.
 -   𝗦𝗲𝗮𝗺𝗹𝗲𝘀𝘀 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Expert in database development and integration
 
-### 📟 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
+### 📟 Data Analysis Expert | Data Mining Guru:
 -   𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴: Mastery of complex models (Regression, Time Series, and Predictive Analytics) using Python, and SQL for precise forecasting.
 -   𝗘𝘅𝗽𝗲𝗿𝘁 𝗶𝗻 𝗟𝗮𝗿𝗴𝗲-𝗦𝗰𝗮𝗹𝗲 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴: Uncovers hidden patterns and trends with algorithms like Random Forest, XGBoost, and K-Means for actionable insights.
 -   𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗤𝘂𝗲𝗿𝘆 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Optimizes complex SQL queries for lightning-fast data retrieval, even from massive datasets.
