@@ -2,8 +2,7 @@
 
 With over 4 years of experience uncovering meaningful insights from complex data to drive informed business decisions. I turn raw data into strategic solutions, delivering clear and actionable results at a fair, flat, and predictable rate.
 
-## 💪 My Superpowers:
-(Only a World-Top 1% Data Professionals can offer this)
+## 💪 My Superpowers (Only a World-Top 1% Data Professionals can offer this):
 ### 🛠️ 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
 - **Charts, Cards, Dashboards & KPI's:** Crafting visual masterpieces that tell compelling data stories.
 - **Data Visualization & Analysis:** Illuminating patterns and trends in the data darkness.
