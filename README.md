@@ -16,6 +16,18 @@ With over 4 years of experience uncovering meaningful insights from complex data
 -   𝗖𝗹𝗼𝘂𝗱-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Deploys scalable data solutions using MongoDB, Google Cloud, and automated deployment pipelines.
 -   𝗦𝗲𝗮𝗺𝗹𝗲𝘀𝘀 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Expert in database development and integration
 
+### 📟 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
+-   𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴: Mastery of complex models (Regression, Time Series, and Predictive Analytics) using Python, and SQL for precise forecasting.
+-   𝗘𝘅𝗽𝗲𝗿𝘁 𝗶𝗻 𝗟𝗮𝗿𝗴𝗲-𝗦𝗰𝗮𝗹𝗲 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴: Uncovers hidden patterns and trends with algorithms like Random Forest, XGBoost, and K-Means for actionable insights.
+-   𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗤𝘂𝗲𝗿𝘆 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Optimizes complex SQL queries for lightning-fast data retrieval, even from massive datasets.
+-   𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Seamlessly integrates ML models into analysis pipelines for dynamic, predictive decision-making.
+-   𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀: Fully automates data analysis workflows using Python, SQL, and Google Apps Script to ensure efficiency and accuracy.
+-   𝗗𝗲𝗲𝗽 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳 𝗠𝘂𝗹𝘁𝗶-𝗦𝗼𝘂𝗿𝗰𝗲 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Consolidates data from APIs, databases, and cloud services for a unified and comprehensive analysis.
+-   𝗣𝗿𝗲𝗰𝗶𝘀𝗲 𝗔𝗕 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 & 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁 𝗗𝗲𝘀𝗶𝗴𝗻: Designs and analyzes experiments for data-driven decision-making, ensuring statistically sound results.
+-   𝗖𝗼𝗻𝗳𝗶𝗱𝗲𝗻𝘁 𝗶𝗻 𝗕𝗮𝘆𝗲𝘀𝗶𝗮𝗻 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Utilizes Bayesian models for probabilistic reasoning and decision-making under uncertainty.
+-   𝗘𝘅𝗽𝗲𝗿𝘁 𝗶𝗻 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗣𝗿𝗲𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗗𝗶𝗿𝘁𝘆 𝗗𝗮𝘁𝗮: Implements robust data cleaning strategies to eliminate noise and ensure data integrity.
+-   𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀-𝗗𝗿𝗶𝘃𝗲𝗻 𝗜𝗻𝘀𝗶𝗴𝗵𝘁 𝗧𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗶𝗼𝗻: Transforms analytical findings into clear, actionable business strategies that drive growth and profitability.
+
 ## Tech Toolbox:
 - Proficient in:
   - Google Data Studio (Looker), Power BI, Zoho Analytics, Domo, Tableau, Excel, Google Sheets
