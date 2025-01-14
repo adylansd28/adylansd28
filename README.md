@@ -28,6 +28,18 @@ With over 4 years of experience uncovering meaningful insights from complex data
 -   𝗘𝘅𝗽𝗲𝗿𝘁 𝗶𝗻 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗣𝗿𝗲𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗗𝗶𝗿𝘁𝘆 𝗗𝗮𝘁𝗮: Implements robust data cleaning strategies to eliminate noise and ensure data integrity.
 -   𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀-𝗗𝗿𝗶𝘃𝗲𝗻 𝗜𝗻𝘀𝗶𝗴𝗵𝘁 𝗧𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗶𝗼𝗻: Transforms analytical findings into clear, actionable business strategies that drive growth and profitability.
 
+### 📊 Dashboard Design Master | Data Visualization Magician:
+-   𝗗𝗮𝘁𝗮 𝗦𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴: Transform complex data into clear, compelling narratives that drive decisions.
+-   𝗖𝗼𝗴𝗻𝗶𝘁𝗶𝘃𝗲 𝗟𝗼𝗮𝗱 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Design visuals that simplify information and enhance user understanding.
+-   C𝗼𝗻𝘁𝗲𝘅𝘁𝘂𝗮𝗹 𝗗𝗲𝘀𝗶𝗴𝗻: Tailor dashboards to meet the specific needs of different audiences.
+-   D𝗮𝘁𝗮-𝗜𝗻𝗸 𝗥𝗮𝘁𝗶𝗼 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Eliminate unnecessary elements to highlight essential insights.
+-   I𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗶𝗼𝗻: Enable dynamic filtering and drill-downs for deeper data discovery.
+-   C𝗼𝗹𝗼𝗿 𝗧𝗵𝗲𝗼𝗿𝘆 & 𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆: Use color strategically to convey meaning and ensure accessibility.
+-   V𝗶𝘀𝘂𝗮𝗹 𝗛𝗶𝗲𝗿𝗮𝗿𝗰𝗵𝘆 & 𝗙𝗹𝗼𝘄: Guide user attention with intentional layout and design structure.
+-   A𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Embed predictive models and advanced analytics into dashboards.
+-   R𝗲𝗮𝗹-𝗧𝗶𝗺𝗲 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Deliver live, up-to-date insights with optimized performance.
+-   C𝗿𝗼𝘀𝘀-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲𝗻𝗲𝘀𝘀: Create dashboards that adapt seamlessly across all devices.
+
 ## Tech Toolbox:
 - Proficient in:
   - Google Data Studio (Looker), Power BI, Zoho Analytics, Domo, Tableau, Excel, Google Sheets
