@@ -6,8 +6,8 @@ With over 4 years of experience uncovering meaningful insights from complex data
 ### 🛠️ 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
 - **Charts, Cards, Dashboards & KPI's:** Crafting visual masterpieces that tell compelling data stories.
 - **Data Visualization & Analysis:** Illuminating patterns and trends in the data darkness.
-- **𝗠𝘂𝗹𝘁𝗶-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Domain of Python, PHP, JavaScript, SQL, and C# for building powerful, customized data solutions.
-- **𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘀𝗶𝗴𝗻: Develops seamless ETL workflows with tools like Talend Open Studio, Apache NiFi, and Informatica.
+-   𝗠𝘂𝗹𝘁𝗶-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Domain of Python, PHP, JavaScript, SQL, and C# for building powerful, customized data solutions.
+-   𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘀𝗶𝗴𝗻: Develops seamless ETL workflows with tools like Talend Open Studio, Apache NiFi, and Informatica.
 𝗦𝗺𝗮𝗿𝘁 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝘁: Fully automates data pipelines with Google Apps Script, Power Query, Googel Functions, and Python for error-free execution.
 𝗣𝗿𝗲𝗰𝗶𝘀𝗲 𝗪𝗲𝗯 & 𝗦𝗰𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴: Masters tools like Puppeteer, Selenium, Scrapy, and Beautiful Soup for flawless data extraction.
 𝗥𝗼𝗯𝘂𝘀𝘁 𝗔𝗣𝗜 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Connects and consolidates data with scalable API integrations and web crawling techniques.
