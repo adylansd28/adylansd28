@@ -70,7 +70,7 @@ With over 4 years of experience uncovering meaningful insights from complex data
   - Smooth Data Flow Integration
   - Clear and Actionable Data Structuring
   - Best Practices in Data Engineering
-- 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴 𝗠𝗮𝘀𝘁𝗲𝗿𝘆 𝗼𝗳:
+- 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴:
   - In-Depth Exploratory Data Analysis (EDA)
   - Advanced Statistical Modeling
   - High-Impact Data Interpretation
@@ -78,9 +78,16 @@ With over 4 years of experience uncovering meaningful insights from complex data
   - Seamless Data Integration
   - Automation of Analytical Workflows
   - Data-Driven Decision Support
+- 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻:
+  - Meaningful KPI, Cards, Charts, Visualizations Development
+  - Impactful and Amazing Dashboards Designs
+  - Pixel Perfect Details
+  - Enveloping and Fluid Interactiveness
+  - Refined User Experience
+  - Captivating and Digestible Story Telling
+  - UX/UI best practices 
 
 ## 📌 𝙀𝙡𝙞𝙩𝙚 𝘾𝙤𝙢𝙥𝙚𝙩𝙚𝙣𝙘𝙚𝙨:
-- 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴 𝗠𝗮𝘀𝘁𝗲𝗿𝘆 𝗼𝗳:
   -  𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Expert in extracting complex data from diverse sources with precision and efficiency.
   -  𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗱 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗗𝗲𝘀𝗶𝗴𝗻: Specializes in building high-performance, scalable ETL workflows for seamless data integration.
   -  𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: Pioneers automation solutions that streamline data processing and eliminate manual bottlenecks.
