@@ -1,4 +1,4 @@
-# Dilan Salas - Data Wizard | Analytics Maestro | Visualization Virtuoso 🚀
+# Dilan Salas - Data Extraction Wizard | Data Analysis Expert | Data Visualization Magician 🚀
 
 Welcome to a realm where data isn't just numbers; it's the heartbeat of decision-making. I'm Dilan Salas, a seasoned data enthusiast with a passion for transforming raw information into actionable insights. 📊✨
 
