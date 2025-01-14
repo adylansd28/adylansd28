@@ -101,7 +101,11 @@ With over 4 years of experience uncovering meaningful insights from complex data
 Ready to turn your data into a strategic asset? Let's embark on a journey of data-driven success together. 🔥💯🎯
 
 🔭 I’m currently working as Independent Contractor through Upwork
+
 🌱 I’m currently pursuing my Microsoft Certified: Power BI Data Analyst Associate
+
 👯 I’m looking to collaborate on Reporting Infrastructure Development
+
 💬 Ask me about Data Extraction, Data Analysis or Data Visualization
+
 📫 How to reach me: https://www.upwork.com/freelancers/dylansalas
