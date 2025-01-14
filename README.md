@@ -1,8 +1,9 @@
 # Dilan Salas - Data Extraction Wizard | Data Analysis Expert | Data Visualization Magician 🚀
 
-Welcome to a realm where data isn't just numbers; it's the heartbeat of decision-making. I'm Dilan Salas, a seasoned data enthusiast with a passion for transforming raw information into actionable insights. 📊✨
+With over 4 years of experience uncovering meaningful insights from complex data to drive informed business decisions. I turn raw data into strategic solutions, delivering clear and actionable results at a fair, flat, and predictable rate.
 
 ## Key Skills:
+(Only a World-Top 1% Data Professionals can offer this)
 - **Charts, Cards, Dashboards & KPI's:** Crafting visual masterpieces that tell compelling data stories.
 - **Data Visualization & Analysis:** Illuminating patterns and trends in the data darkness.
 
