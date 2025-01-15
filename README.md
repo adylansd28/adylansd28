@@ -1,9 +1,9 @@
-# Dylan Salas: Data Extraction Wizard | Data Analysis Expert | Data Visualization Magician 🚀
+# Dylan Salas: Data Extraction Genius | Data Analysis Expert | Data Visualization Magician 🚀
 
 With over 4 years of experience uncovering meaningful insights from complex data to drive informed business decisions. I turn raw data into strategic solutions, delivering clear and actionable results at a fair, flat, and predictable rate.
 
 ## 💪 My Superpowers (Only a World-Top 1% Data Professionals can offer this):
-### 🛠️ Efficient ETL Pipeline Developer | Data Extraction Wizard:
+### 🛠️ Efficient ETL Pipeline Developer | Data Extraction Genius:
 -   Charts, Cards, Dashboards & KPI's:** Crafting visual masterpieces that tell compelling data stories.
 -   Data Visualization & Analysis:** Illuminating patterns and trends in the data darkness.
 -   𝗠𝘂𝗹𝘁𝗶-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Domain of Python, PHP, JavaScript, SQL, and C# for building powerful, customized data solutions.
